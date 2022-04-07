@@ -1,2 +1,2 @@
 # odin-recipes
-This is a basic exercise to practice HTML 
+This is a basic exercise to practice HTML.
